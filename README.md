@@ -61,16 +61,16 @@ I currently work at **Grupo RITEX**, developing and integrating automation, comp
 ## 📌 Featured Projects
 
 ### 🔹 Store Wars
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-[Repository link]
+> Tienda online de venta de productos referidos a Star Wars y su universo cinematográfico.  
+[Repository link(https://github.com/chumagram/store-wars)]
 
-### 🔹 Project 2
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-[Repository link]
+### 🔹 Icnea
+> Icnea es un proyecto desarrollado para alcanzar la titulación en Ingenieria Mecatronica en la Universidad Nacional de La Rioja, consiste en la deteccion de herramientas en un tablero utilizado como maqueta de un entorno laboral, en el se debe detectar presencia de las herramientas y su correcto ordenamiento en la misma.  
+[Repository link(https://github.com/Juerodriguez/icnea)]
 
-### 🔹 Project 3
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-[Repository link]
+### 🔹 Job Assignment
+> Job assignment es un proyecto que consiste en una simple pagina donde se puede asiganr personal a su correspondiente puesto laboral teniendo en cuenta un calendario.  
+[Repository link(https://github.com/chumagram/job_assignment.git)]
 
 ---
 
@@ -84,14 +84,7 @@ I currently work at **Grupo RITEX**, developing and integrating automation, comp
 
 ## 🌐 Links & Contact
 
-- 💼 LinkedIn: [LinkedIn link]
-- 📺 YouTube Channel: [YouTube link]
-- 📧 Email: ScaramajoGonzalo.com
-- 📱 Mobile phone: [Phone number]
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chumagram&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chumagram&layout=compact)
+- 💼 LinkedIn: [LinkedIn link(https://www.linkedin.com/in/gonzalo-gramajo-8635a3191/)]
+- 📺 YouTube Channel: [YouTube link(https://www.youtube.com/@IngGonzaGramajo)]
+- 📧 Email: gramajogonzalo@gmail.com
+- 📱 Mobile phone: [Phone number(https://wa.me/543886851166)]
